@@ -1,3 +1,29 @@
 <resources>
-    <string name="app_name">CalculatorTTS</string>
+    <string name="app_name">Calculator TTS</string>
+    <string name="lbl_clear">Clear</string>
+    <string name="lbl_c">C</string>
+    <string name="lbl_backspace">Backspace</string>
+    <string name="lbl_backspace_icon">⌫</string>
+    <string name="lbl_divide">Divide</string>
+    <string name="lbl_divide_icon">/</string>
+    <string name="lbl_7">7</string>
+    <string name="lbl_8">8</string>
+    <string name="lbl_9">9</string>
+    <string name="lbl_4">4</string>
+    <string name="lbl_5">5</string>
+    <string name="lbl_6">6</string>
+    <string name="lbl_1">1</string>
+    <string name="lbl_2">2</string>
+    <string name="lbl_3">3</string>
+    <string name="lbl_equals">Equals</string>
+    <string name="lbl_equals_icon">=</string>
+    <string name="lbl_0">0</string>
+    <string name="lbl_decimal_point">Decimal point</string>
+    <string name="lbl_decimal_point_icon">.</string>
+    <string name="lbl_multiply">Multiply</string>
+    <string name="lbl_multiply_icon">*</string>
+    <string name="lbl_minus">Minus</string>
+    <string name="lbl_minus_icon">-</string>
+    <string name="lbl_plus">Plus</string>
+    <string name="lbl_plus_icon">+</string>
 </resources>
